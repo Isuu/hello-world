@@ -1,3 +1,5 @@
-# hello-world //hello Su
-my first repository
-Hi Su,I'm gonna make some changes from now
+public class Su{
+  public static void main(String[] args){
+    System.out.println("helloworld");
+  }
+}
